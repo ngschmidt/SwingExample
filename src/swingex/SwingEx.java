@@ -31,7 +31,7 @@ public class SwingEx {
     public void initComponents() {
         frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setTitle("PISS");
+        frame.setTitle("foobar");
         frame.setSize(600,600);
         frame.setLocationRelativeTo(null);
         
